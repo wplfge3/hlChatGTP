@@ -1,0 +1,4 @@
+连vpn
+在这个地方cmd
+npm run dev
+输入然后会出现一个网站，打开网站就是Chatgtp
